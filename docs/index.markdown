@@ -4,5 +4,8 @@
 
 layout: home
 ---
+<header>
+  
+</header>
 
-test content
+I'm constructing this site, so ignore anything you see here.
