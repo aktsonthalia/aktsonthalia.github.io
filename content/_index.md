@@ -30,6 +30,12 @@ sections:
           location: Tübingen, Germany
           date_start: '2022-08-01'
           date_end: '2024-02-29'
+        - title: Research Assistant
+          company: Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)
+          company_url: https://dfki.de
+          location: Kaiserslautern, Germany
+          date_start: '2022-02-01'
+          date_end: '2022-06-30'
     design:
       columns: '2'
   - block: collection
