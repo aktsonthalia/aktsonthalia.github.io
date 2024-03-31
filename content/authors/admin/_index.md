@@ -57,4 +57,3 @@ highlight_name: true
 ---
 
 Bio under construction.
-{style="text-align: justify;"}
