@@ -56,4 +56,13 @@ social:
 highlight_name: true
 ---
 
-Bio under construction.
+I'm a first-year PhD candidate in [Seong Joon Oh](https://coallaoh.github.io)'s group [Scalable Trustworthy AI (STAI)](https://scalabletrustworthyai.github.io). Before this, I have meddled in various research activities during my undergraduate studies, an internship and my previous job as a research software engineer. Lately, I am interested in understanding how and why neural networks work (or don't). The focus is on making discoveries that benefit use cases across the board. The long-term goal of my research is to inject principles of causality in AI. I will write more as my research interests become more concrete. 
+
+Would you like to share a cool idea? Do you need my help with something? Feel free to reach out over [email](ankit.sonthalia@uni-tuebingen.de) or [LinkedIn](https://www.linkedin.com/in/ankit-sonthalia-2a05b4202).
+
+
+
+
+
+
+
