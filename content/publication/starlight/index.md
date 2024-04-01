@@ -1,20 +1,20 @@
 ---
-title: 'Do Deep Neural Network Solutions Form a Star Domain?'
+title: "Do Deep Neural Network Solutions Form a Star Domain?"
 authors:
 - admin
 - Alexander Rubinstein
 - Ehsan Abbasnejad
 - Seong Joon Oh
 date: "2024-03-12T00:00:00Z"
-doi: 
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-31T00:00:00Z"
+publishDate: "2024-03-12T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -24,11 +24,12 @@ abstract: "Entezari et al. (2022) conjectured that neural network solution sets 
 
 featured: false
 
-url_pdf: 'https://arxiv.org/abs/2403.07968'
+url_pdf: https://arxiv.org/abs/2403.07968
 url_code: 'https://github.com/aktsonthalia/starlight'
 
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  # caption: 'Star domain'
   focal_point: ""
   preview_only: false
 
