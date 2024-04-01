@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Ankit Sonthalia. This work is licensed under {license}'
+    notice: '© {year} Ankit Sonthalia.'
     license:
       enable: true
       allow_derivatives: false
