@@ -31,7 +31,7 @@ sections:
           date_start: '2022-08-01'
           date_end: '2024-02-29'
         - title: Research Assistant
-          company: German Research Center for Artificial Intelligence \(DFKI\)
+          company: Deutsches Forschungszentrum für Künstliche Intelligenz
           company_url: 'https://www.dfki.de/web'
           location: Kaiserslautern, Germany
           date_start: '2022-02-01'
