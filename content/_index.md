@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Ankit Sonthalia'
 date: '2024-31-03'
 type: landing
 
