@@ -32,6 +32,7 @@ sections:
           date_end: '2024-02-29'
         - title: Research Assistant
           company: Deutsches Forschungszentrum für Künstliche Intelligenz
+          company_logo:
           company_url: 'https://www.dfki.de/web'
           location: Kaiserslautern, Germany
           date_start: '2022-02-01'
