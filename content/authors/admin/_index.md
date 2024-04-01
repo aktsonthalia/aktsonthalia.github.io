@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Scalable Trustworthy AI
-    url: "https://scalabletrustworthyai.github.io"
+    url: 'https://scalabletrustworthyai.github.io'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include causality, representation learning and OOD generalization.
