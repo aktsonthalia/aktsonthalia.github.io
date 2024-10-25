@@ -50,4 +50,16 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: posts
+    content: 
+      title: Posts
+      filters:
+        folders: 
+          - post
+    design:
+      columns: '2'
+
+
+
 ---
