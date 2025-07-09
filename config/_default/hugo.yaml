@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ankit Sonthalia # Website name
-baseURL: 'https://aktsonthalia.github.io/' # Website URL
+baseURL: '/' # Website URL - will be overridden by GitHub Actions
 
 ############################
 ## LANGUAGE
