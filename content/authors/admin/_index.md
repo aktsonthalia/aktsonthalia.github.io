@@ -23,10 +23,9 @@ bio: My research interests include causality, representation learning and OOD ge
 # Interests to show in About widget
 interests:
   - Trustworthy Machine Learning
-  - Robustness
-  - OOD Generalization 
-  - Causality in ML
-  - Parameter Spaces
+  - Vision-language models
+  - Embedding spaces
+  - Parameter spaces
 
 # Education to show in About widget
 education:
